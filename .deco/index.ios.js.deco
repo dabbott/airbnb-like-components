@@ -1,1 +1,104 @@
-{}
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 29,
+					"ch": 19
+				},
+				"to": {
+					"line": 29,
+					"ch": 40
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Color",
+			"group": "ACTION BUTTON"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 30,
+					"ch": 18
+				},
+				"to": {
+					"line": 30,
+					"ch": 24
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": [
+				"left",
+				"right"
+			],
+			"type": "string",
+			"name": "Side",
+			"group": "ACTION BUTTON"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 31,
+					"ch": 18
+				},
+				"to": {
+					"line": 31,
+					"ch": 26
+				}
+			},
+			"editWith": "dropdown",
+			"type": "string",
+			"name": "Icon",
+			"group": "ACTION BUTTON"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 34,
+					"ch": 19
+				},
+				"to": {
+					"line": 34,
+					"ch": 30
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Title",
+			"group": "MARQUEE"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 35,
+					"ch": 22
+				},
+				"to": {
+					"line": 35,
+					"ch": 92
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Subtitle",
+			"group": "MARQUEE"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 40,
+					"ch": 19
+				},
+				"to": {
+					"line": 40,
+					"ch": 41
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Title",
+			"group": "GALLERY"
+		}
+	]
+}
