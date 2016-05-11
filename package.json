@@ -11,5 +11,92 @@
     "react": "^0.14.8",
     "react-native": "^0.22.2",
     "react-native-value-store": "^0.1.0"
+  },
+  "deco": {
+    "components": [
+      {
+        "name": "Gallery",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "http://placehold.it/100x100",
+        "description": "A horizontal-scrolling image gallery.",
+        "inspector": {
+          "group": "GALLERY"
+        },
+        "template": {
+          "text": "./templates/GalleryTemplate.js",
+          "metadata": "./.deco/templates/GalleryTemplate.js.deco"
+        },
+        "imports": {
+          "react-native": [
+            "Dimensions"
+          ],
+          "./components": [
+            "Gallery"
+          ]
+        }
+      },
+      {
+        "name": "Hero Image",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "http://placehold.it/100x100",
+        "description": "A large image for the top of a view.",
+        "inspector": {
+          "group": "HERO IMAGE"
+        },
+        "template": {
+          "text": "./templates/HeroTemplate.js",
+          "metadata": "./.deco/templates/HeroTemplate.js.deco"
+        },
+        "imports": {
+          "./components": [
+            "Hero"
+          ]
+        }
+      },
+      {
+        "name": "Divider",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "http://placehold.it/100x100",
+        "description": "Divide content in a vertical layout.",
+        "inspector": {
+          "group": "DIVIDER"
+        },
+        "template": {
+          "text": "./templates/DividerTemplate.js",
+          "metadata": "./.deco/templates/DividerTemplate.js.deco"
+        },
+        "imports": {
+          "./components": [
+            "Divider"
+          ]
+        }
+      },
+      {
+        "name": "Marquee",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "http://placehold.it/100x100",
+        "description": "A title and subtitle.",
+        "inspector": {
+          "group": "MARQUEE"
+        },
+        "template": {
+          "text": "./templates/MarqueeTemplate.js",
+          "metadata": "./.deco/templates/MarqueeTemplate.js.deco"
+        },
+        "imports": {
+          "./components": [
+            "Marquee"
+          ]
+        }
+      }
+    ]
   }
 }
