@@ -19,7 +19,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.2",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "http://placehold.it/100x100",
+        "thumbnail": "http://i.imgur.com/1rjZydk.png",
         "description": "A horizontal-scrolling image gallery.",
         "inspector": {
           "group": "GALLERY"
@@ -42,7 +42,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.2",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "http://placehold.it/100x100",
+        "thumbnail": "http://i.imgur.com/ZDM7byD.png",
         "description": "A large image for the top of a view.",
         "inspector": {
           "group": "HERO IMAGE"
@@ -62,7 +62,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.2",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "http://placehold.it/100x100",
+        "thumbnail": "http://i.imgur.com/p8PQ2t2.png",
         "description": "Divide content in a vertical layout.",
         "inspector": {
           "group": "DIVIDER"
@@ -82,7 +82,7 @@
         "publisher": "deco",
         "schemaVersion": "0.0.2",
         "tags": ["core", "ui", "react-native"],
-        "thumbnail": "http://placehold.it/100x100",
+        "thumbnail": "http://i.imgur.com/WarDgiC.png",
         "description": "A title and subtitle.",
         "inspector": {
           "group": "MARQUEE"
