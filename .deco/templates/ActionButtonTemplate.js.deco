@@ -1,0 +1,53 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 1,
+					"ch": 9
+				},
+				"to": {
+					"line": 1,
+					"ch": 30
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Color"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 2,
+					"ch": 8
+				},
+				"to": {
+					"line": 2,
+					"ch": 14
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": [
+				"left",
+				"right"
+			],
+			"type": "string",
+			"name": "Side"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 3,
+					"ch": 8
+				},
+				"to": {
+					"line": 3,
+					"ch": 16
+				}
+			},
+			"editWith": "dropdown",
+			"type": "string",
+			"name": "Icon"
+		}
+	]
+}

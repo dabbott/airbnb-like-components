@@ -96,6 +96,26 @@
             "Marquee"
           ]
         }
+      },
+      {
+        "name": "Action Button",
+        "publisher": "deco",
+        "schemaVersion": "0.0.2",
+        "tags": ["core", "ui", "react-native"],
+        "thumbnail": "http://i.imgur.com/Mf7ogH9.png",
+        "description": "A button for the main call-to-action.",
+        "inspector": {
+          "group": "ACTION BUTTON"
+        },
+        "template": {
+          "text": "./templates/ActionButtonTemplate.js",
+          "metadata": "./.deco/templates/ActionButtonTemplate.js.deco"
+        },
+        "imports": {
+          "./components": [
+            "ActionButton"
+          ]
+        }
       }
     ]
   }

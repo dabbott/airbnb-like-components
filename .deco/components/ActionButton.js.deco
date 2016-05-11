@@ -1,0 +1,112 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 7,
+					"ch": 25
+				},
+				"to": {
+					"line": 7,
+					"ch": 46
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor",
+			"group": "VIEW"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 7,
+					"ch": 55
+				},
+				"to": {
+					"line": 7,
+					"ch": 61
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Side"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 8,
+					"ch": 17
+				},
+				"to": {
+					"line": 8,
+					"ch": 19
+				}
+			},
+			"type": "number",
+			"name": "Radius"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 16,
+					"ch": 20
+				},
+				"to": {
+					"line": 16,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "ImageSize"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 29,
+					"ch": 26
+				},
+				"to": {
+					"line": 29,
+					"ch": 34
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "JustifyContent",
+			"type": "string",
+			"name": "JustifyContent"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 30,
+					"ch": 22
+				},
+				"to": {
+					"line": 30,
+					"ch": 30
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "AlignItems",
+			"type": "string",
+			"name": "AlignItems"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 37,
+					"ch": 24
+				},
+				"to": {
+					"line": 37,
+					"ch": 31
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "ResizeMode",
+			"type": "string",
+			"name": "ResizeMode",
+			"group": "IMAGE"
+		}
+	]
+}
